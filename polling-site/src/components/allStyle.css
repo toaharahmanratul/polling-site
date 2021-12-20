@@ -1,0 +1,65 @@
+/* Homepage */
+h1, h2, h3, h4, h5 {
+    font-family: "Segoe UI","Helvetica Neue","Helvetica",Arial,sans-serif;
+    font-weight: 100;
+}
+.navigation{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.nav-btn{
+    border: 2px solid #5dabe4;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.nav-btn:hover{
+    border: 2px solid #94caf1;
+}
+.login-btn{
+    background-color: #278ad1;
+    color: white;
+}
+.login-btn1:hover{
+    color: white;
+}
+.create-poll-btn{
+    background-color: #278ad1;
+    color: white;
+    border: 3px solid white;
+    border-radius: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.create-poll-btn:hover{
+    border: 3px solid #94caf1;
+    color: white;
+}
+/* ------------------
+    Footer Section 
+------------------- */
+footer{
+    margin-top: 140px;
+    background-image: linear-gradient(white, #b7e1ff);
+    align-content: center;
+}
+.logo-copyright{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 20px;
+}
+.far.fa-copyright{
+    font-size: 14px;
+}
+.icons a{
+    font-size: 32px;
+    color: #0d1a47;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+/* Sign Up Page  */
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,2 @@
+<i class="fas fa-poll"></i> - Font Awesome Icon Poll
+2C2C32 - Dark Text color
